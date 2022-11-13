@@ -1,6 +1,7 @@
 baseURL: https://www.thilak.de
 title: Thilak Mahendran
 theme: "PaperMod"
+publishDir: "docs"
 
 params:
   defaultTheme: auto
