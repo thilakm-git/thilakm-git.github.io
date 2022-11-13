@@ -1,0 +1,43 @@
+baseURL: https://thilakm-git.github.io
+title: Thilak Mahendran
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowBreadCrumbs: true
+  enableEmoji: true
+  cover:
+    responsiveImages: true
+  profileMode:
+    enabled: true
+    Title: Hi, I'm Thilak.
+    subtitle: Head of Open Data at the Federal Office of Administration, Germany.
+    imageUrl: /profile.jpg
+    imageWidth: 240
+    imageHeight: 240
+  socialIcons:
+    - name: "mastodon"
+      url: "https://mastodon.social/@thilak"
+    - name: "twitter"
+      url: "https://twitter.com/thilakmahendran"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/thilakmahendran"
+    - name: "github"
+      url: "https://github.com/thilakm-git"
+  label:
+    icon: /home.svg
+    iconHeight: 35
+menu:
+  main:
+      - identifier: about
+        name: About
+        url: "/about"
+        weight: 10
+      - identifier: media
+        name: Media
+        url: "/media"
+        weight: 20
+      - identifier: projects
+        name: Projects
+        url: "/projects"
+        weight: 30
