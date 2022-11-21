@@ -10,7 +10,7 @@ params:
     responsiveImages: true
   profileMode:
     enabled: true
-    Title: Hi, I'm Thilak.
+    Title: Hi, I'm Thilak!
     subtitle: Head of Open Data at the Federal Office of Administration, Germany.
     imageUrl: /profile.jpg
     imageWidth: 240
