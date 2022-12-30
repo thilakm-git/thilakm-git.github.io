@@ -1,5 +1,7 @@
 ---
 #title: "Media"
+showtoc: yes
+tocopen: yes
 ---
 # 2022
 ### SmartCountryConvention: Gekommen um zu bleiben - Open Data in Deutschland
