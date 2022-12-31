@@ -10,4 +10,4 @@ Dienstanbieter ist das amerikanische Unternehmen
 >`CA 94107`  
 >`USA`
 
-Weitere Informationen zu GitHub findest du [hier](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages).
+Weitere Informationen zu GitHub findest du [hier {{< ext-svg >}}](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages).
