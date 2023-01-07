@@ -32,6 +32,10 @@ tocopen: yes
 > `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/qYpk7Poqxncy6D9) [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung/thilak-mahendran)
 >
 >_Thilak Mahendran ist eine echte Ausnahmeerscheinung. 2020 kehrte er einem globalen Tech-Konzern, der IBM, den Rücken für einen Job in einer für Außenstehende eher wenig aufregend wirkenden Behörde, dem Bundesverwaltungsamt in Köln._
+### Frankfurter Allgemeine Zeitung: Programmieren für den Staat
+> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/q99AyYHDoWSNfne)
+>
+>_Thilak Mahendran hatte während seiner Zeit als Berater für Künstliche Intelligenz bei IBM in München schon öfters mit dem Thema Verwaltung und IT zu tun. Er beriet die öffentliche Hand und im Ehrenamt bei digitalpolitischen Themen auch die Münchner Grünen. Per Zufall entdeckte Mahendran eine Stellenausschreibung als Leiter des Kompetenzzentrums Open Data beim Bundesverwaltungsamt in Köln und ergriff die Gelegenheit, in einem neuen Job wieder in der Nähe seiner alten Heimat Duisburg zu arbeiten._
 ### Initiative D21: AG Datendemokratie
 > `💬 panel-diskussion` [`info {{< ext-svg >}}`](https://initiatived21.de/veranstaltungen/sitzung-der-ag-datendemokratie-q4-2021/)
 >

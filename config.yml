@@ -16,7 +16,7 @@ params:
   profileMode:
     enabled: true
     Title: Hi, I'm Thilak! 🖖🏾
-    subtitle: Head of Open Data at the Federal Office of Administration, Germany.
+    subtitle: Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)
     imageUrl: /profile.jpg
     imageWidth: 360
     imageHeight: 360
