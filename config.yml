@@ -39,7 +39,11 @@ menu:
         name: about
         url: "/about"
         weight: 10
-      - identifier: media
-        name: media / activities
-        url: "/media"
+      - identifier: work
+        name: work
+        url: "/work"
         weight: 20
+      - identifier: media
+        name: media
+        url: "/media"
+        weight: 30
