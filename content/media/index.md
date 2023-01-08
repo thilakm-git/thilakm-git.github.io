@@ -3,7 +3,7 @@
 showtoc: yes
 tocopen: yes
 ---
-# 2022
+## 2022
 ### SmartCountryConvention: Gekommen um zu bleiben - Open Data in Deutschland
 > `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/9GRDcw9V_Dc) [`info {{< ext-svg >}}`](https://online.smartcountry.berlin/eventdate/Came-to-stay-Open-Data-in-German--ed_052)
 >
@@ -27,7 +27,7 @@ tocopen: yes
 >
 >_Work4Germany ist das Fellowship-Programm des Bundes für moderne Projektarbeit und Arbeitsweisen. Die Jury entscheidet über die Zuteilung der Fellows auf Projekte und Teams der Bundesverwaltung._
 ***
-# 2021
+## 2021
 ### Tagesspiegel Background: Porträt 
 > `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/qYpk7Poqxncy6D9) [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung/thilak-mahendran)
 >
@@ -59,7 +59,7 @@ tocopen: yes
 >
 >_Daten ermöglichen evidenzbasierte Entscheidungen und neuartige Erkenntnisse, sie können ein wirksames Mittel gegen Falschnachrichten und halbseidene Theorien sein. Für Expert*innen aus Forschung, Behörden und Redaktionen ist das längst selbstverständlich – und doch gelingt es oftmals nicht, die nötigen Netzwerke für interdisziplinäre Kooperationen über die Grenzen der eigenen Institution hinweg aufzubauen. Brigitte Alfter, Thilak Mahendran, Gert Wagner und Tim Friede diskutieren, welche Reformen und strukturellen Veränderungen nötig sind, um Kooperationen zwischen den Domänen zu erleichtern._
 ***
-# 2020
+## 2020
 ###  IBM Garage Café: Warum Vertrauen in KI von entscheidender Bedeutung sein wird 
 > `🗣️ interview` [`📺 video {{< ext-svg >}}`](https://cloud.thilak.de/s/GT9WYGZZbSXL7ja) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)
 > 
@@ -69,7 +69,7 @@ tocopen: yes
 > 
 >_Mit Andrea Martin, Chief Tower Officer, im Ernst, Chefin des IBM Watson Centers in München und Mitglied der KI-Enquetekommission des deutschen Bundestages, und Thilak Mahendran, Customer Experience Experte für AI, spreche ich über Tennis, Roger Federer, warum ich alt bin und noch an Boris Becker denke, vor allem aber darüber, warum es Vertrauen in künstliche Intelligenz braucht. Andrea und Thilak erklären die Prinzipien, die IBM bei Einsatz von KI beachtet._
 ***
-# 2016 - 2019
+## 2016 - 2019
 ### IBM Promotional Videos
 > - [IBM Watson Center {{< ext-svg >}}](https://www.youtube.com/watch?v=LcJ-jzlX5_w)
 > - [IBM Europe {{< ext-svg >}}](https://www.youtube.com/watch?v=BNb_4xzH164)
