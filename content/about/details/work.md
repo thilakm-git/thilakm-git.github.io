@@ -5,7 +5,7 @@ weight: 1
 ## IBM
 > `2023 — Today` Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)
 ## Federal Office of Administration, Germany
-> `2020 - 2022` Head of [Center of Comptency for Open Data {{< ext-svg >}}](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html), Federal Office of Administration
+> `2020 - 2022` Head of [Center of Comptency for Open Data {{< ext-svg >}}](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html)
 ## IBM
 >`2016 — 2020` Senior Application Consultant for [AI {{< ext-svg >}}](https://www.ibm.com/artificial-intelligence)
 
