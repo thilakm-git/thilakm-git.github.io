@@ -19,9 +19,10 @@
 > `BACHELOR` of Arts (Hons.) German & Business Studies, [University of Warwick {{< ext-svg >}}](https://en.wikipedia.org/wiki/University_of_Warwick), UK
 
 ### IBM Badges
-> * Enterprise Design Thinking Co-Creator
-> * Enterprise Design Thinking Practitioner
->* IBM Blockchain Essentials
+>* Garage Essentials
+>* Enterprise Design Thinking Co-Creator
+>* Enterprise Design Thinking Practitioner
+>* Blockchain Essentials
 >* Watson and Cloud Foundations
 >* Data Science for Business
 >* Data Science

@@ -10,7 +10,7 @@ tocopen: yes
 >_Open Data gehört bereits seit Jahren zum etablierten Themenkanon in Wirtschaft, Politik und Verwaltung. Dabei fällt auf, dass insbesondere in Krisenzeiten die Bedeutung von Open Data betont wird und entsprechende Handlungen auf den Weg gebracht werden. Wo stehen wir bei Open Data in Deutschland? Wir zeichnen ein Gesamtbild zu Open Data von GovData und dem European Data Portal, über die einzelnen Bestrebungen auf Bundes- und Landesebene bis hin zum Blick zu Nachbarländern._
 
 ### Behördenspiegel: Open Data nachhaltig denken
-> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/emntc8o3379qxDo)  
+> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](/202202_Behoerden_Spiegel_Mahendran_CCOD.pdf)  
 >
 >_Das Kompetenzzentrum Open Data beim Bundesverwaltungsamt berät Behörden und Ministerien beim Umgang mit großen, frei zugänglichen Verwaltungsdaten. Der Behörden Spiegel sprach mit dem Leiter des Kompetenzzentrums, Thilak Mahendran, über die Beratungsangebote, aber auch über die zukünftigen Potenziale von Open Data in der Bundesverwaltung._
 ### SciCAR-Konferenz: Gemeinsam für eine gut informierte Öffentlichkeit – und trotzdem kritisch
@@ -29,11 +29,11 @@ tocopen: yes
 ***
 ## 2021
 ### Tagesspiegel Background: Porträt 
-> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/qYpk7Poqxncy6D9) [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung/thilak-mahendran)
+> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](/202108_tagesspiegel_background_portraet_mahendran.pdf) [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung/thilak-mahendran)
 >
 >_Thilak Mahendran ist eine echte Ausnahmeerscheinung. 2020 kehrte er einem globalen Tech-Konzern, der IBM, den Rücken für einen Job in einer für Außenstehende eher wenig aufregend wirkenden Behörde, dem Bundesverwaltungsamt in Köln._
 ### Frankfurter Allgemeine Zeitung: Programmieren für den Staat
-> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](https://cloud.thilak.de/s/q99AyYHDoWSNfne)
+> `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](/202109_FAZ-Programmieren_fuer_den_Staat-Artikel.pdf)
 >
 >_Thilak Mahendran hatte während seiner Zeit als Berater für Künstliche Intelligenz bei IBM in München schon öfters mit dem Thema Verwaltung und IT zu tun. Er beriet die öffentliche Hand und im Ehrenamt bei digitalpolitischen Themen auch die Münchner Grünen. Per Zufall entdeckte Mahendran eine Stellenausschreibung als Leiter des Kompetenzzentrums Open Data beim Bundesverwaltungsamt in Köln und ergriff die Gelegenheit, in einem neuen Job wieder in der Nähe seiner alten Heimat Duisburg zu arbeiten._
 ### Initiative D21: AG Datendemokratie
@@ -61,7 +61,7 @@ tocopen: yes
 ***
 ## 2020
 ###  IBM Garage Café: Warum Vertrauen in KI von entscheidender Bedeutung sein wird 
-> `🗣️ interview` [`📺 video {{< ext-svg >}}`](https://cloud.thilak.de/s/GT9WYGZZbSXL7ja) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)
+> `🗣️ interview` [`📺 video {{< ext-svg >}}`](/Garage Café - Warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird-20200609 1205-1.mp4) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)
 > 
 >_Damit KI funktioniert, braucht es Daten und davon viele. Wie Unternehmen damit umgehen und warum das Thema auch dringend eine ethische Komponente braucht, das erfahrt ihr im kommenden Garage Café. Andrea Martin leitet das IBM Watson Center in Müßnchen und ist Mitglied der Enquete Kommission Künstliche Intelligenz der Bundesregierung. Thilak Mahendran verantwortet als Snr. Client Experience Leader im Watson Center das Thema KI. Erlebt die beiden im Gesprach und erfahrt, warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird._
 ### IBM Livestudio: Vertrauen in künstliche Intelligenz 
