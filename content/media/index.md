@@ -61,7 +61,7 @@ tocopen: yes
 ***
 ## 2020
 ###  IBM Garage Café: Warum Vertrauen in KI von entscheidender Bedeutung sein wird 
-> `🗣️ interview` [`📺 video {{< ext-svg >}}`](/Garage Café - Warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird-20200609 1205-1.mp4) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)
+> `🗣️ interview` [`📺 video {{< ext-svg >}}`](/GarageC.mp4) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)
 > 
 >_Damit KI funktioniert, braucht es Daten und davon viele. Wie Unternehmen damit umgehen und warum das Thema auch dringend eine ethische Komponente braucht, das erfahrt ihr im kommenden Garage Café. Andrea Martin leitet das IBM Watson Center in Müßnchen und ist Mitglied der Enquete Kommission Künstliche Intelligenz der Bundesregierung. Thilak Mahendran verantwortet als Snr. Client Experience Leader im Watson Center das Thema KI. Erlebt die beiden im Gesprach und erfahrt, warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird._
 ### IBM Livestudio: Vertrauen in künstliche Intelligenz 
