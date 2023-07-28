@@ -3,7 +3,8 @@ title: Thilak Mahendran
 theme: "PaperMod"
 
 params:
-  defaultTheme: auto
+  defaultTheme: light
+  disableThemeToggle: true
   ShowBreadCrumbs: false
   enableEmoji: true
   hideMeta: true
