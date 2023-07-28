@@ -20,11 +20,11 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    height: 75vh;
+    height: 80vh;
     width: var(--main-width);
     max-width: 90%;
     box-sizing: border-box;
-    /* Adds a top margin equal to 20% of the viewport height */
+    margin-bottom: 0%;
 }
 
 .first-entry .entry-header h1 {
@@ -84,4 +84,12 @@ mark {
     font-weight: 100;
     font-size: 90%;
     display: inline-flexbox;
+}
+
+.social-icons {
+    padding: 12px 0 0 0; /* reduce bottom padding to zero */
+}
+
+.footer {
+    padding: calc(((var(--footer-height) - var(--gap)) / 2) - 20px) var(--gap); /* reduce top padding even more */
 }
