@@ -1,0 +1,77 @@
+:root {
+    --nav-width: 1024px;
+    --main-width: 1720px;
+    --code-bg: #ffffff;
+    --theme: #ededed;
+    --secondary: rgb(30, 30, 30);
+}
+
+.list {
+    background: url('/9507.JPG');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.first-entry {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: calc(100vh - 220px);
+    width: var(--main-width);
+    max-width: 90%;
+    box-sizing: border-box;
+    margin: 5 auto;
+    margin-top: 4vh;
+    /* Adds a top margin equal to 20% of the viewport height */
+}
+
+.first-entry .entry-header h1 {
+    font-size: 108px;
+    box-sizing: border-box;
+}
+
+.first-entry .entry-content {
+    font-size: 20px;
+    -webkit-line-clamp: 3;
+    box-sizing: border-box;
+}
+
+/* Media queries for different screen sizes */
+@media only screen and (max-width: 1720px) {
+    .first-entry {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .first-entry .entry-header h1 {
+        font-size: 64px;
+        /* Adjust font size for smaller screens */
+    }
+}
+
+.logo a {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+button#theme-toggle {
+    font-size: 20px;
+}
+
+@media screen and (max-width: 767px) {
+    body {
+        font-size: 16px;
+        /* Adjust the font size to your preference for mobile */
+    }
+}
+
+body {
+    background: url('/9511.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

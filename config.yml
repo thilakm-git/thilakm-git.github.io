@@ -11,15 +11,12 @@ params:
   ShowPostNavLinks: true
   disableAnchoredHeadings: true
   hideSummary: true
+  mainSections:
   cover:
     responsiveImages: true
-  profileMode:
-    enabled: true
-    Title: Hi, I'm Thilak! 🖖🏾
-    subtitle: Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)
-    imageUrl: /profile.jpg
-    imageWidth: 360
-    imageHeight: 360
+  homeInfoParams:
+      Title: Hi, I'm Thilak!
+      Content: Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)
   socialIcons:
     - name: "mastodon"
       url: "https://ohai.social/@thilak"
@@ -30,7 +27,7 @@ params:
     - name: "github"
       url: "https://github.com/thilakm-git"
   label:
-    text: "thilak."
+    text: "thilak.de"
     #icon: /apple-touch-icon.png
     #iconHeight: 20
 menu:
