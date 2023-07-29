@@ -30,6 +30,8 @@
 .first-entry .entry-header h1 {
     font-size: 200px;
     box-sizing: border-box;
+    padding: 0px;
+    display: inline;
 }
 
 .first-entry .entry-content {
@@ -78,7 +80,7 @@ body {
 }
 
 mark {
-    background-color: rgb(255, 255, 255); /* Replace 'blue' with your desired color */;
+    background-color: whitesmoke;
     padding: 0px;
     font-family: "Roboto Mono", monospace;
     font-weight: 100;
@@ -92,4 +94,15 @@ mark {
 
 .footer {
     padding: calc(((var(--footer-height) - var(--gap)) / 2) - 20px) var(--gap); /* reduce top padding even more */
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+    background-color: whitesmoke;
+    padding: 0px;
+    display: inline;
 }
