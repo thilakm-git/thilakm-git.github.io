@@ -16,7 +16,7 @@ params:
   cover:
     responsiveImages: true
   homeInfoParams:
-    Title: Hi, I'm Thilak!
+    Title: Hi,<br> I'm Thilak!
     Content: <mark>Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)</mark>
   socialIcons:
     - name: "mastodon"
@@ -28,13 +28,11 @@ params:
     - name: "github"
       url: "https://github.com/thilakm-git"
   label:
-    text: "thilak.de"
-    #icon: /apple-touch-icon.png
-    #iconHeight: 20
+    text: "home"
 menu:
   main:
     - identifier: about
-      name: about
+      name: about me
       url: "/about"
       weight: 10
     - identifier: work
