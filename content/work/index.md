@@ -18,5 +18,4 @@ weight: 1
 
 # Volunteer Work
 >* <mark>2021 — 2022: Core member, [DIVERSITRY {{< ext-svg >}}](https://www.diversitry.com/)</mark>
-
 >* <mark>2019 — 2020: Co-leading working group Digital for [DIE GRÜNEN Munich {{< ext-svg >}}](https://www.gruene-muenchen.de/partei/arbeitskreise/)</mark>
