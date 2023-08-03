@@ -4,13 +4,13 @@ showtoc: no
 tocopen: no
 ---
 ## 2022
-><mark>**SmartCountryConvention: Gekommen um zu bleiben – Open Data in Deutschland**</mark>
+><mark>**SmartCountryConvention: Gekommen um zu bleiben — Open Data in Deutschland**</mark>
 > `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/9GRDcw9V_Dc) [`info {{< ext-svg >}}`](https://online.smartcountry.berlin/eventdate/Came-to-stay-Open-Data-in-German--ed_052)<button onclick="toggleVisibility('hiddenContent1')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent1" style="display: none;"><mark>Open Data gehört bereits seit Jahren zum etablierten Themenkanon in Wirtschaft, Politik und Verwaltung. Dabei fällt auf, dass insbesondere in Krisenzeiten die Bedeutung von Open Data betont wird und entsprechende Handlungen auf den Weg gebracht werden. Wo stehen wir bei Open Data in Deutschland? Wir zeichnen ein Gesamtbild zu Open Data von GovData und dem European Data Portal, über die einzelnen Bestrebungen auf Bundes- und Landesebene bis hin zum Blick zu Nachbarländern.</mark></div>
 
 ><mark>**Behördenspiegel: Open Data nachhaltig denken**</mark>
 >`🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](/202202_Behoerden_Spiegel_Mahendran_CCOD.pdf)<button onclick="toggleVisibility('hiddenContent2')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent2" style="display: none;"><mark>Das Kompetenzzentrum Open Data beim Bundesverwaltungsamt berät Behörden und Ministerien beim Umgang mit großen, frei zugänglichen Verwaltungsdaten. Der Behörden Spiegel sprach mit dem Leiter des Kompetenzzentrums, Thilak Mahendran, über die Beratungsangebote, aber auch über die zukünftigen Potenziale von Open Data in der Bundesverwaltung</mark></div>
 
-><mark>**SciCAR-Konferenz: Gemeinsam für eine gut informierte Öffentlichkeit – und trotzdem kritisch**</mark>
+><mark>**SciCAR-Konferenz: Gemeinsam für eine gut informierte Öffentlichkeit — und trotzdem kritisch**</mark>
 >`💬 panel-diskussion` [`session-info {{< ext-svg >}}`](https://sched.co/14ac2) [`bericht {{< ext-svg >}}`](https://www.wissenschaftsjournalismus.org/datenjournalismus/konferenzen-und-ressourcen/konferenzen/fachkonferenz-scicar-2022/)<button onclick="toggleVisibility('hiddenContent3')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent3" style="display: none;"><mark>Wie kann eine bessere Zusammenarbeit zwischen Behörden und einem unabhängigen Datenjournalismus gelingen? In diesem Workshop diskutieren wir Erfahrungen und Ideen, wie der Austausch von Datensätzen, Metadaten und Methoden noch reibungsloser funktionieren kann</mark></div>
 
 ><mark>**Waterkant Festival: Let’s talk Open Data!**</mark>
@@ -42,7 +42,7 @@ tocopen: no
 > `🎟️ jury` [`info {{< ext-svg >}}`](https://work-archive.4germany.org/jury/)<button onclick="toggleVisibility('hiddenContent11')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent11" style="display: none;"><mark>Work4Germany ist das Fellowship-Programm des Bundes für moderne Projektarbeit und Arbeitsweisen. Die Jury entscheidet über die Zuteilung der Fellows auf Projekte und Teams der Bundesverwaltung</mark></div>
 
 ><mark>**SciCar-Konferenz: Gemeinsam mit Daten gegen Konfusion und Fakes?**</mark>
-> `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/607vJM5hkiY?t=13623) [`info {{< ext-svg >}}`](https://sched.co/mU9N)<button onclick="toggleVisibility('hiddenContent12')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent12" style="display: none;"><mark>Daten ermöglichen evidenzbasierte Entscheidungen und neuartige Erkenntnisse, sie können ein wirksames Mittel gegen Falschnachrichten und halbseidene Theorien sein. Für Expert*innen aus Forschung, Behörden und Redaktionen ist das längst selbstverständlich – und doch gelingt es oftmals nicht, die nötigen Netzwerke für interdisziplinäre Kooperationen über die Grenzen der eigenen Institution hinweg aufzubauen. Brigitte Alfter, Thilak Mahendran, Gert Wagner und Tim Friede diskutieren, welche Reformen und strukturellen Veränderungen nötig sind, um Kooperationen zwischen den Domänen zu erleichtern</mark></div>
+> `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/607vJM5hkiY?t=13623) [`info {{< ext-svg >}}`](https://sched.co/mU9N)<button onclick="toggleVisibility('hiddenContent12')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent12" style="display: none;"><mark>Daten ermöglichen evidenzbasierte Entscheidungen und neuartige Erkenntnisse, sie können ein wirksames Mittel gegen Falschnachrichten und halbseidene Theorien sein. Für Expert*innen aus Forschung, Behörden und Redaktionen ist das längst selbstverständlich — und doch gelingt es oftmals nicht, die nötigen Netzwerke für interdisziplinäre Kooperationen über die Grenzen der eigenen Institution hinweg aufzubauen. Brigitte Alfter, Thilak Mahendran, Gert Wagner und Tim Friede diskutieren, welche Reformen und strukturellen Veränderungen nötig sind, um Kooperationen zwischen den Domänen zu erleichtern</mark></div>
 ***
 ## 2020
 ><mark>**IBM Garage Café: Warum Vertrauen in KI von entscheidender Bedeutung sein wird**</mark>
@@ -51,7 +51,7 @@ tocopen: no
 ><mark>**IBM Livestudio: Vertrauen in künstliche Intelligenz**</mark>
 > `🗣️ interview` [`📺 video {{< ext-svg >}}`](https://youtu.be/4db97jBpt7U) [`info {{< ext-svg >}}`](https://stefanpfeiffer.blog/2020/04/15/ibm-livestudio-magazin-4-funktionierende-lieferketten-wichtiger-denn-je-ebenso-vertrauen-in-ki-und-automatisieren-um-mehr-zeit-fur-wichtige-arbeit-zu-haben/)<button onclick="toggleVisibility('hiddenContent14')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent14" style="display: none;"><mark>Mit Andrea Martin, Chief Tower Officer, im Ernst, Chefin des IBM Watson Centers in München und Mitglied der KI-Enquetekommission des deutschen Bundestages, und Thilak Mahendran, Customer Experience Experte für AI, spreche ich über Tennis, Roger Federer, warum ich alt bin und noch an Boris Becker denke, vor allem aber darüber, warum es Vertrauen in künstliche Intelligenz braucht. Andrea und Thilak erklären die Prinzipien, die IBM bei Einsatz von KI beachtet</mark></div>
 ***
-## 2016 – 2019
+## 2016 — 2019
 ><mark>**IBM Promotional Videos**</mark>
 >
 >- [`IBM Watson Center {{< ext-svg >}}`](https://www.youtube.com/watch?v=LcJ-jzlX5_w) 
