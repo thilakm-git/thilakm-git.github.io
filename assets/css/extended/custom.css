@@ -104,6 +104,7 @@
 .first-entry .entry-header h1 {
     font-size: 180px;
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
   }
 
 .first-entry .entry-content {

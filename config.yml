@@ -16,8 +16,8 @@ params:
   cover:
     responsiveImages: true
   homeInfoParams:
-    Title: Hi,<br> I'm Thilak!
-    Content: <mark>Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)</mark>
+    Title: hi, <br>i'm <mark>thilak.</mark> 
+    Content: <mark>sr. tech consultant, public sector – [ibm ix {{< ext-svg >}}](https://ibmix.de/)</mark>
   socialIcons:
     - name: "mastodon"
       url: "https://ohai.social/@thilak"

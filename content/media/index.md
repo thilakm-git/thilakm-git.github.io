@@ -3,8 +3,8 @@
 showtoc: no
 tocopen: no
 ---
-# 2022
-><mark>**SmartCountryConvention: Gekommen um zu bleiben - Open Data in Deutschland**</mark>
+## 2022
+><mark>**SmartCountryConvention: Gekommen um zu bleiben – Open Data in Deutschland**</mark>
 > `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/9GRDcw9V_Dc) [`info {{< ext-svg >}}`](https://online.smartcountry.berlin/eventdate/Came-to-stay-Open-Data-in-German--ed_052)<button onclick="toggleVisibility('hiddenContent1')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent1" style="display: none;"><mark>Open Data gehört bereits seit Jahren zum etablierten Themenkanon in Wirtschaft, Politik und Verwaltung. Dabei fällt auf, dass insbesondere in Krisenzeiten die Bedeutung von Open Data betont wird und entsprechende Handlungen auf den Weg gebracht werden. Wo stehen wir bei Open Data in Deutschland? Wir zeichnen ein Gesamtbild zu Open Data von GovData und dem European Data Portal, über die einzelnen Bestrebungen auf Bundes- und Landesebene bis hin zum Blick zu Nachbarländern.</mark></div>
 
 ><mark>**Behördenspiegel: Open Data nachhaltig denken**</mark>
@@ -19,7 +19,7 @@ tocopen: no
 ><mark>**Work4Germany: Teil der Jury**</mark>
 > `🎟️ jury` [`info {{< ext-svg >}}`](https://www.bva.bund.de/SharedDocs/Kurzmeldungen/DE/Digitalisierung/bva-in-jury-von-work4germany.html)<button onclick="toggleVisibility('hiddenContent5')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent5" style="display: none;"><mark>Work4Germany ist das Fellowship-Programm des Bundes für moderne Projektarbeit und Arbeitsweisen. Die Jury entscheidet über die Zuteilung der Fellows auf Projekte und Teams der Bundesverwaltung</mark></div>
 ***
-# 2021
+## 2021
 ><mark>**Tagesspiegel Background: Porträt**</mark>
 > `🗞️ zeitungsartikel` [`📄 pdf {{< ext-svg >}}`](/202108_tagesspiegel_background_portraet_mahendran.pdf) [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung/thilak-mahendran)<button onclick="toggleVisibility('hiddenContent6')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent6" style="display: none;"><mark>Thilak Mahendran ist eine echte Ausnahmeerscheinung. 2020 kehrte er einem globalen Tech-Konzern, der IBM, den Rücken für einen Job in einer für Außenstehende eher wenig aufregend wirkenden Behörde, dem Bundesverwaltungsamt in Köln</mark></div>
 
@@ -44,14 +44,14 @@ tocopen: no
 ><mark>**SciCar-Konferenz: Gemeinsam mit Daten gegen Konfusion und Fakes?**</mark>
 > `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/607vJM5hkiY?t=13623) [`info {{< ext-svg >}}`](https://sched.co/mU9N)<button onclick="toggleVisibility('hiddenContent12')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent12" style="display: none;"><mark>Daten ermöglichen evidenzbasierte Entscheidungen und neuartige Erkenntnisse, sie können ein wirksames Mittel gegen Falschnachrichten und halbseidene Theorien sein. Für Expert*innen aus Forschung, Behörden und Redaktionen ist das längst selbstverständlich – und doch gelingt es oftmals nicht, die nötigen Netzwerke für interdisziplinäre Kooperationen über die Grenzen der eigenen Institution hinweg aufzubauen. Brigitte Alfter, Thilak Mahendran, Gert Wagner und Tim Friede diskutieren, welche Reformen und strukturellen Veränderungen nötig sind, um Kooperationen zwischen den Domänen zu erleichtern</mark></div>
 ***
-# 2020
+## 2020
 ><mark>**IBM Garage Café: Warum Vertrauen in KI von entscheidender Bedeutung sein wird**</mark>
 > `🗣️ interview` [`📺 video {{< ext-svg >}}`](/GarageC.mp4) [`info {{< ext-svg >}}`](https://www.meetup.com/de-DE/Big-Data-Developers-in-Munich/events/271078268/)<button onclick="toggleVisibility('hiddenContent13')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent13" style="display: none;"><mark>Damit KI funktioniert, braucht es Daten und davon viele. Wie Unternehmen damit umgehen und warum das Thema auch dringend eine ethische Komponente braucht, das erfahrt ihr im kommenden Garage Café. Andrea Martin leitet das IBM Watson Center in Müßnchen und ist Mitglied der Enquete Kommission Künstliche Intelligenz der Bundesregierung. Thilak Mahendran verantwortet als Snr. Client Experience Leader im Watson Center das Thema KI. Erlebt die beiden im Gesprach und erfahrt, warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird</mark></div>
 
 ><mark>**IBM Livestudio: Vertrauen in künstliche Intelligenz**</mark>
 > `🗣️ interview` [`📺 video {{< ext-svg >}}`](https://youtu.be/4db97jBpt7U) [`info {{< ext-svg >}}`](https://stefanpfeiffer.blog/2020/04/15/ibm-livestudio-magazin-4-funktionierende-lieferketten-wichtiger-denn-je-ebenso-vertrauen-in-ki-und-automatisieren-um-mehr-zeit-fur-wichtige-arbeit-zu-haben/)<button onclick="toggleVisibility('hiddenContent14')"><mark>`➕ beschreibung aufklappen`</mark></button><div id="hiddenContent14" style="display: none;"><mark>Mit Andrea Martin, Chief Tower Officer, im Ernst, Chefin des IBM Watson Centers in München und Mitglied der KI-Enquetekommission des deutschen Bundestages, und Thilak Mahendran, Customer Experience Experte für AI, spreche ich über Tennis, Roger Federer, warum ich alt bin und noch an Boris Becker denke, vor allem aber darüber, warum es Vertrauen in künstliche Intelligenz braucht. Andrea und Thilak erklären die Prinzipien, die IBM bei Einsatz von KI beachtet</mark></div>
 ***
-## 2016 - 2019
+## 2016 – 2019
 ><mark>**IBM Promotional Videos**</mark>
 >
 >- [`IBM Watson Center {{< ext-svg >}}`](https://www.youtube.com/watch?v=LcJ-jzlX5_w) 
