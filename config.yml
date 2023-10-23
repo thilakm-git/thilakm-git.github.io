@@ -17,12 +17,12 @@ params:
     responsiveImages: true
   homeInfoParams:
     Title: hi, <br>i'm <mark>thilak.</mark> 
-    Content: <mark>sr. tech consultant, public sector — [ibm ix {{< ext-svg >}}](https://ibmix.de/)</mark>
+    Content: <mark>innovation lead — digital government at [agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</mark>
   socialIcons:
+    - name: "other"
+      url: "https://bsky.app/profile/thilak.de"
     - name: "mastodon"
       url: "https://ohai.social/@thilak"
-    - name: "twitter"
-      url: "https://twitter.com/thilakmahendran"
     - name: "linkedin"
       url: "https://linkedin.com/in/thilakmahendran"
     - name: "github"
