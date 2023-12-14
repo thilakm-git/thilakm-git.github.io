@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Thilak Mahendran</title>
+    <link>https://thilakm-git.github.io/blog/</link>
+    <description>Recent content in Blogs on Thilak Mahendran</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thilakm-git.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciao ÖD 👋🏾</title>
+      <link>https://thilakm-git.github.io/blog/ciao-oed/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://thilakm-git.github.io/blog/ciao-oed/</guid>
+      <description>Am 06.12. habe ich meine Hardware und meinen Dienstausweis im Bundesverwaltungsamt zurückgegeben. Eine Antwort auf meine Abschiedsmail, die mich noch vor Abgabe der Geräte erreichte, lautete folgend:
+»Das waren bestimmt wilde und anstrengende Jahre«
+Besser hätte ich es nicht sagen können.
+Das bezieht sich weniger auf das Kompetenzzentrum Open Data — ich habe unseren progressiven Mikrokosmos geliebt 💕 — oder den fachlichen Gesprächen, sondern vielmehr auf das Bundesverwaltungsamt bzw. die Bundesverwaltung / auf Führungskräfte.</description>
+    </item>
+    
+  </channel>
+</rss>

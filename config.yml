@@ -17,7 +17,7 @@ params:
     responsiveImages: true
   homeInfoParams:
     Title: hi, <br>i'm <mark>thilak.</mark> 
-    Content: <mark>innovation lead — digital government at [agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</mark>
+    Content: <mark>policy & research @ <i>[agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</i></mark>
   socialIcons:
     - name: "other"
       url: "https://bsky.app/profile/thilak.de"
@@ -43,6 +43,10 @@ menu:
       name: media
       url: "/media"
       weight: 30
+    - identifier: blog
+      name: blog
+      url: "/blog"
+      weight: 40
 
 markup:
   goldmark:

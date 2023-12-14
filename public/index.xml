@@ -2,69 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thilak Mahendran</title>
-    <link>https://thilak.de/</link>
+    <link>https://thilakm-git.github.io/</link>
     <description>Recent content on Thilak Mahendran</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://thilak.de/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://thilakm-git.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Work</title>
-      <link>https://thilak.de/about/details/work/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title></title>
+      <link>https://thilakm-git.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thilak.de/about/details/work/</guid>
-      <description>Federal Office of Administration, Germany 2020 - Today Head of Center of Comptency for Open Data IBM 2016 - 2020 Senior Application Consultant for AI 2019 - 2020 Global Alliances Leader for IBM Watson IoT Center 2015 - 2018 Youth Ambassador for IBM Watson IoT Center 2014 - 2016 Technical Sales for IBM Collaboration Solutions </description>
+      <guid>https://thilakm-git.github.io/work/</guid>
+      <description>work 2023 — today Senior Technology Consultant for the Public Sector, IBM iX 2020 — 2022 Head of Center of Competency for Open Data , Federal Office of Administration, Germany
+2016 — 2020 Senior Application Consultant for AI , IBM
+2019 — 2020 Global Alliances Leader for Watson IoT Center , IBM
+2015 — 2018 Youth Ambassador for Watson IoT Center , IBM
+2014 — 2016 Technical Sales for Collaboration Solutions , IBM</description>
     </item>
     
     <item>
-      <title>Education</title>
-      <link>https://thilak.de/about/details/education/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>Ciao ÖD 👋🏾</title>
+      <link>https://thilakm-git.github.io/blog/ciao-oed/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://thilak.de/about/details/education/</guid>
-      <description>Personal details DOB 1989
-GEO Based in Cologne, Germany.
-Education MASTER of Science, FOM University , Germany
-BACHELOR of Arts (Hons.), University of Warwick , UK</description>
+      <guid>https://thilakm-git.github.io/blog/ciao-oed/</guid>
+      <description>Am 06.12. habe ich meine Hardware und meinen Dienstausweis im Bundesverwaltungsamt zurückgegeben. Eine Antwort auf meine Abschiedsmail, die mich noch vor Abgabe der Geräte erreichte, lautete folgend:
+»Das waren bestimmt wilde und anstrengende Jahre«
+Besser hätte ich es nicht sagen können.
+Das bezieht sich weniger auf das Kompetenzzentrum Open Data — ich habe unseren progressiven Mikrokosmos geliebt 💕 — oder den fachlichen Gesprächen, sondern vielmehr auf das Bundesverwaltungsamt bzw. die Bundesverwaltung / auf Führungskräfte.</description>
     </item>
     
     <item>
-      <title>Training &amp; Development</title>
-      <link>https://thilak.de/about/details/trainings-development/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title></title>
+      <link>https://thilakm-git.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thilak.de/about/details/trainings-development/</guid>
-      <description> IBM Badges 2017-2020 Enterprise Design Thinking Co-Creator; Enterprise Design Thinking Practitioner; IBM Blockchain Essentials; Watson and Cloud Foundations; Data Science for Business; Data Science; Cognitive Practitioner see all </description>
+      <guid>https://thilakm-git.github.io/about/</guid>
+      <description>personal details NAM Thilak Mahendran
+DOB 1989
+GEO Cologne, Germany.
+interests DIGITAL Ethics in AI, eGovernment, Open Data, Open Source MEMBERSHIPS BÜNDNIS 90/DIE GRÜNEN , Amadeu Antonio Foundation , ver.di MUSIC Check out my curated Spotify playlist . It&amp;rsquo;s mostly rap.
+higher education MASTER of Science IT-Management, FOM University , Germany BACHELOR of Arts (Hons.) German &amp;amp; Business Studies, University of Warwick , UK
+certifications IBM Garage Essentials IBM Enterprise Design Thinking Co-Creator IBM Enterprise Design Thinking Practitioner IBM Blockchain Essentials IBM Watson and Cloud Foundations IBM Data Science for Business IBM Data Science IBM Cognitive Practitioner See all </description>
     </item>
     
     <item>
-      <title>Interests</title>
-      <link>https://thilak.de/about/details/interests/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title></title>
+      <link>https://thilakm-git.github.io/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thilak.de/about/details/interests/</guid>
-      <description>Interests DIGITAL Ethics in AI, eGovernment, Open Data, Open Source
-MEMBERSHIPS BÜNDNIS 90/DIE GRÜNEN , Amadeu Antonio Foundation , ver.di MUSIC Check out my curated Spotify playlist . It&amp;rsquo;s mostly rap.</description>
+      <guid>https://thilakm-git.github.io/datenschutz/</guid>
+      <description>Datenschutz Die Website wird mit GitHub Pages betrieben. Ich sammele keine (persönlichen) Daten und setze keine (Tracking-)Cookies ein. Wenn du dich mit der Website verbindest, wird deine IP-Adresse an GitHub Pages gesendet - cos, well duh! Dienstanbieter ist das amerikanische Unternehmen: GitHub Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, USA. Weitere Informationen zu GitHub findest du hier .</description>
     </item>
     
     <item>
-      <title>Media</title>
-      <link>https://thilak.de/media/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title></title>
+      <link>https://thilakm-git.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thilak.de/media/</guid>
-      <description>2020: Future Insights Network TV video spotify further info Thilak Mahendran, Senior Client Engagement Lead for AI at IBM joins us to discuss the opportunities, possibilities and challenges of implementing AI in today?s Supply Chain. Thilak walks us through the use of Augmented Intelligence in creating a future-proof business that will not only create business value but will also enhance the life of its employees.
-2020: IBM Garage Café video further info Unser Thema: Warum Vertrauen im nächsten Schritt der KI-Evolution von entscheidender Bedeutung sein wird.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://thilak.de/projects/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://thilak.de/projects/</guid>
-      <description>Public Android CaptivePortal Check Server Change the captive portal check server on your Android device from Google&amp;rsquo;s default connectivitycheck.gstatic.com to an alternative hosted in Germany.
-Use the instructions provided by kuketz-blog.de (German only) to do so. To use my server, substitute captiveportal.kuketz.de with captiveportal.thilak.de
-Private Cloud Based on Nextcloud . cloud.thilak.de Videoconferencing Based on Jitsi Meet . Currently there are no plans to make this publicly available. meet.thilak.de </description>
+      <guid>https://thilakm-git.github.io/media/</guid>
+      <description>2022 SmartCountryConvention: Gekommen um zu bleiben — Open Data in Deutschland 💬 panel-diskussion 📺 video session-info ➕ beschreibung aufklappenOpen Data gehört bereits seit Jahren zum etablierten Themenkanon in Wirtschaft, Politik und Verwaltung. Dabei fällt auf, dass insbesondere in Krisenzeiten die Bedeutung von Open Data betont wird und entsprechende Handlungen auf den Weg gebracht werden. Wo stehen wir bei Open Data in Deutschland? Wir zeichnen ein Gesamtbild zu Open Data von GovData und dem European Data Portal, über die einzelnen Bestrebungen auf Bundes- und Landesebene bis hin zum Blick zu Nachbarländern.</description>
     </item>
     
   </channel>
