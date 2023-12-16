@@ -2,7 +2,7 @@
 #title: Work
 weight: 1
 ---
-### work
+# work
 ><mark>`2023 — today` Senior Technology Consultant for the Public Sector, [IBM iX {{< ext-svg >}}](https://ibmix.de/)</mark> 
 
 >
@@ -17,7 +17,7 @@ weight: 1
 >
 ><mark>`2014 — 2016` Technical Sales for [Collaboration Solutions {{< ext-svg >}}](https://newsroom.ibm.com/2018-12-06-HCL-Technologies-to-Acquire-Select-IBM-Software-Products-for-1-8B), IBM</mark> 
 
-### volunteer work
+# volunteer work
 ><mark>`2021 — 2022` Core member, [DIVERSITRY {{< ext-svg >}}](https://www.diversitry.com/)</mark>
 
 ><mark>`2019 — 2020` Co-leading working group Digital for [DIE GRÜNEN Munich {{< ext-svg >}}](https://www.gruene-muenchen.de/partei/arbeitskreise/)</mark>
