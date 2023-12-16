@@ -2,32 +2,32 @@
 #title: "Personal details"
 ---
 # personal details
-><mark>`NAM` Thilak Mahendran</mark>
+>`NAM` Thilak Mahendran
 >
-><mark>`DOB` 1989</mark>
+>`DOB` 1989
 >
-><mark>`GEO` Cologne, Germany.</mark>
+>`GEO` Cologne, Germany.
 
 # interests
-><mark>`DIGITAL` Ethics in AI, eGovernment, Open Data, Open Source  </mark>
+>`DIGITAL` Ethics in AI, eGovernment, Open Data, Open Source  
 >
-><mark>`MEMBERSHIPS` [BÜNDNIS 90/DIE GRÜNEN {{< ext-svg >}}](https://en.wikipedia.org/wiki/Alliance_90/The_Greens), [Amadeu Antonio Foundation {{< ext-svg >}}](https://www.amadeu-antonio-stiftung.de/en/about-us/), [ver.di {{< ext-svg >}}](https://www.verdi.de/ueber-uns/verdi-international/++co++0da83724-a114-11e2-9997-52540059119e)  </mark>
+>`MEMBERSHIPS` [BÜNDNIS 90/DIE GRÜNEN {{< ext-svg >}}](https://en.wikipedia.org/wiki/Alliance_90/The_Greens), [Amadeu Antonio Foundation {{< ext-svg >}}](https://www.amadeu-antonio-stiftung.de/en/about-us/), [ver.di {{< ext-svg >}}](https://www.verdi.de/ueber-uns/verdi-international/++co++0da83724-a114-11e2-9997-52540059119e)  
 >
-><mark>`MUSIC` Check out my curated Spotify [playlist {{< ext-svg >}}](https://open.spotify.com/playlist/48Sls72EpC41kdzrflUwK2?si=l94p6qvyRuyRvw82FkfI_Q). It's mostly rap.</mark>
+>`MUSIC` Check out my curated Spotify [playlist {{< ext-svg >}}](https://open.spotify.com/playlist/48Sls72EpC41kdzrflUwK2?si=l94p6qvyRuyRvw82FkfI_Q). It's mostly rap.
 
 # higher education
-><mark>`MASTER` of Science IT-Management, [FOM University {{< ext-svg >}}](https://en.wikipedia.org/wiki/FOM_University_of_Applied_Sciences_for_Economics_and_Management), Germany  </mark>
+>`MASTER` of Science IT-Management, [FOM University {{< ext-svg >}}](https://en.wikipedia.org/wiki/FOM_University_of_Applied_Sciences_for_Economics_and_Management), Germany  
 >
-><mark>`BACHELOR` of Arts (Hons.) German & Business Studies, [University of Warwick {{< ext-svg >}}](https://en.wikipedia.org/wiki/University_of_Warwick), UK</mark>
+>`BACHELOR` of Arts (Hons.) German & Business Studies, [University of Warwick {{< ext-svg >}}](https://en.wikipedia.org/wiki/University_of_Warwick), UK
 
 # certifications
->* <mark>IBM Garage Essentials</mark>
->* <mark>IBM Enterprise Design Thinking Co-Creator</mark>
->* <mark>IBM Enterprise Design Thinking Practitioner</mark>
->* <mark>IBM Blockchain Essentials</mark>
->* <mark>IBM Watson and Cloud Foundations</mark>
->* <mark>IBM Data Science for Business</mark>
->* <mark>IBM Data Science</mark>
->* <mark>IBM Cognitive Practitioner  </mark>
+>* IBM Garage Essentials
+>* IBM Enterprise Design Thinking Co-Creator
+>* IBM Enterprise Design Thinking Practitioner
+>* IBM Blockchain Essentials
+>* IBM Watson and Cloud Foundations
+>* IBM Data Science for Business
+>* IBM Data Science
+>* IBM Cognitive Practitioner  
 >
-><mark>See [all {{< ext-svg >}}](https://www.youracclaim.com/users/thilak.mahendran/badges?sort=-state_updated_at&page=1)</mark>
+>See [all {{< ext-svg >}}](https://www.youracclaim.com/users/thilak.mahendran/badges?sort=-state_updated_at&page=1)
