@@ -2,12 +2,6 @@
 #title: "privacy-legal"
 ---
 # privacy policy
-<br>The website is operated using GitHub Pages. I do not collect any (personal) data and do not use any (tracking) cookies. When you connect to the website, your IP address is sent to GitHub Pages - cos, well duh! Service provider is the American company: GitHub Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, USA. You can find more information about GitHub [here {{< ext-svg >}}](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages).
+>The website is operated using GitHub Pages. I do not collect any (personal) data and do not use any (tracking) cookies. When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see [GitHub Privacy Statement {{< ext-svg >}}](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 # legal notice
-<br>Thilak Mahendran
-<br>c/o Agora Digitale Transformation gGmbH 
-<br>Krausenstr. 8
-<br>10117 Berlin
-<br>
-<br><b>responsible for content</b>
-<br>Thilak Mahendran
+>Thilak Mahendran, c/o Agora Digitale Transformation gGmbH , Krausenstr. 8, 10117 Berlin. responsible for content: Thilak Mahendran
