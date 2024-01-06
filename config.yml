@@ -19,7 +19,7 @@ params:
     Title: hi, <br>i'm <mark>thilak.</mark> 
     Content: <mark>digital policy — [agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</mark>
   socialIcons:
-    - name: "other"
+    - name: "bluesky"
       url: "https://bsky.app/profile/thilak.de"
     - name: "mastodon"
       url: "https://ohai.social/@thilak"
