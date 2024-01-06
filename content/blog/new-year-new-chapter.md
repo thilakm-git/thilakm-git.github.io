@@ -1,0 +1,25 @@
+---
+title: new year, new chapter. 🎈️ 
+date: 2024-01-06
+hidemeta: false
+ShowReadingTime: true
+author: thilak
+---
+Während meiner Zeit bei IBM und in der Bundesverwaltung durfte ich an etlichen Digitalisierungsprojekten von Bundesbehörden mitwirken. Besonders auffällig hierbei war, dass wir häufig vor der Herausforderung standen, metaphorisch gesprochen, eine von Schlaglöchern übersäte Straße zu reparieren. **Interessanterweise führte das Ausbessern eines Lochs oft zur Entstehung eines neuen, größeren Problems**. Dabei war vielen von uns klar, dass wir eigentlich größer denken müssen, um nachhaltig und wirklich kosteneffizient zu handeln. 
+
+### neues Kapitel: denkfabrik 🧠
+Umso mehr habe ich mich gefreut dass ein **neue politische und gemeinnützige Denkfabrik** genau zu diesen Themen nach Verstärkung suchte – die [**Agora Digitale Transformation** {{< ext-svg >}}](https://www.agoradigital.de/). Im Think Tank Kontext sehe ich die Chance, von der Symptombekämpfung zur Ursachenforschung überzugehen – **vom Flicken der Schlaglöcher zum Entwerfen zukunftssicherer Straßen**. Dies umfasst nicht nur organisatorische und technische Aspekte – wie bisher üblich bei mir – sondern auch politische Überlegungen. Können unsere Ideen in der aktuellen politischen Landschaft Mehrheiten finden? Wie wecken wir politisches Interesse für Themen, die (noch) nicht unmittelbar wahlentscheidend sind? Und zu guter Letzt: Wie können diese Ideen in der Praxis aussehen? **Denn große politische Ideen müssen auch realistisch umsetzbar sein.** 
+
+Die Agora Digitale Transformation legt besonderen Wert darauf praktikable Lösungen zu erarbeiten. Die Problembenennung ist zwar wichtig, jedoch nur ein Teil der Lösung des Problems. **Papiere in Schubladen haben wir genug**. Der Aufbau einer Organisation stellt immer eine große Herausforderung dar. Die Agora Digitale Transformation profitiert von [erprobten Strukturen {{< ext-svg >}}](https://www.agora-energiewende.de/ueber-uns/raete-der-agora) und der [überparteilichen, intersektoralen Zusammensetzung des Rates der Agora {{< ext-svg >}}](https://www.agoradigital.de/about#rat). **Politisch gesehen kann die Digitalisierung nur überparteilich gelingen**. Unter der Leitung von [Stefan Heumann {{< ext-svg >}}](https://www.agoradigital.de/about#stefan-heumann), einem erfahrenen Denkfabrikleiter mit tiefgehender Expertise, und dank langfristiger Finanzierung[^1], können wir uns der inhaltlichen Freiheit in der Ausarbeitung unserer Gedanken widmen. Mit [Projekt E-Valuate {{< ext-svg >}}](https://www.agoradigital.de/projekte/e-valuate) ist das **erste wichtige Forschungsvorhaben bereits gestartet** – *»Wie wird das Regierungshandeln wirkungsvoller?«*. 
+
+### zwei monate berlin 🐻️ 
+Im Oktober 2023 begann die Reise. Für die ersten zwei Monate bin ich nach Berlin gezogen. Mir ist besonders in der Anfangsphase wichtig, meine Kolleg:innen menschlich kennenzulernen. **Irgendwann wird es nämlich fachlich krachen – und das meine ich positiv**. Da hilft es die Aussagen deines Gegenübers schnell und richtig einordnen zu können. Wie wir aus sämtlichen zwischenmenschlichen Beziehungen wissen, erreichen wir ohne gute Kommunikation unsere Ziele nur schlecht und langsam. Zum Glück sind die Kolleg:innen echt cool, inspirierend, authentisch und ehrlich. Seit Dezember bin ich wieder zurück in Köln und arbeite von hier aus hybrid. **But boy oh boy, Berlin ist ja sehr anders als Köln..** 😵‍💫
+
+### kurzer ausblick 🔮 
+Ich beschäftigte mich in den letzten Jahren mit der Frage, wie wir die Datenverfügbarkeit innerhalb der Verwaltung erhöhen können. Ohne diese Grundlage werden wir nicht von der Digitalisierung profitieren, wie wir uns das erhoffen. Hieran werde ich weiterhin arbeiten. **Dass hierbei die Infrastruktur in den Vordergrund gerückt werden muss, steht für mich außer Frage – ohne dabei zu technokratisch zu werden**. Dabei erscheint mir ein plattformbasierter Ansatz am vielversprechendsten. Hier können wir nicht nur von BigTech-Unternehmen lernen, sondern mittlerweile auch von zahlreichen Ländern, die einen **'Government as a Platform' (GaaP)-Ansatz** erfolgreich umsetzen. Eine ganzheitliche Sicht – nicht nur im OZG-Kontext – fehlt mir bisher im Diskurs. *Open Government* und *Beteiligung* passen z.B. wunderbar in dieses Konstrukt. 
+
+Ich freue mich auf die kommenden Monate und Jahre. Das wird richtig cool! 🎉
+>*Updates zu unserer Arbeit werden wir auf [agoradigital.de {{< ext-svg >}}](https://agoradigital.de) veröffentlichen.* 
+
+
+[^1]: *»Alleiniger Gesellschafter ist die Stiftung Mercator, die die Agora Digitale Transformation mit 8,6 Millionen Euro über die nächsten fünf Jahre fördert. [...] Weitere Förderungen von Projekten und der Organisation werden angestrebt, solange sie sich mit der Unabhängigkeit und der Mission der Agora Digitale Transformation vereinbaren lassen.«*[ agoradigital.de {{< ext-svg >}}](https://www.agoradigital.de/about)

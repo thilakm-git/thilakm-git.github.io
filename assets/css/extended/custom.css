@@ -115,7 +115,6 @@
 @media only screen and (max-width: 1024px) {
     .first-entry .entry-header h1 {
         font-size: 80px;
-        /* Adjust font size for smaller screens */
     }
 }
 
@@ -131,7 +130,6 @@ button#theme-toggle {
 @media screen and (max-width: 767px) {
     body {
         font-size: 16px;
-        /* Adjust the font size to your preference for mobile */
     }
 }
 
@@ -142,6 +140,10 @@ body {
     background-size: cover;
     background-color: whitesmoke;
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
+}
+
+strong, b {
+  font-weight: 900;
 }
 
 mark {
@@ -166,9 +168,7 @@ mark {
 .post-content h5,
 .post-content h6 {
     background-color: whitesmoke;
-    padding: 0px;
-    display: inline;
+    margin: 10px 0;
     font-family: 'Merriweather', Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
-    font-style: italic;
 }

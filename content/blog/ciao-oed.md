@@ -18,7 +18,7 @@ Das bezieht sich weniger auf das Kompetenzzentrum Open Data — ich habe unseren
 [^3]: Gegen Koalitionsvertrag: Innenministerin Faeser will Sicherheitslücken offenlassen, [netzpolitik.org {{< ext-svg >}}](https://netzpolitik.org/2022/gegen-koalitionsvertrag-innenministerin-faeser-will-sicherheitsluecken-offenlassen/)
 [^4]: Positionspapier zu Chatkontrolle: Innenministerin Faeser will Koalitionsvertrag brechen, [netzpolitik.org {{< ext-svg >}}](https://netzpolitik.org/2022/positionspapier-zu-chatkontrolle-innenministerin-faeser-will-koalitionsvertrag-brechen/)
 
-## Gründe
+### gründe
 1. **Organisations- und Arbeitskultur**
     * **Technische Infrastruktur**: Eigentlich habe ich nur eine 4-Tage-Woche gearbeitet, weil die Infrastruktur regelmäßig überlastet war (wie so viele Kolleg*innen auch..)
     * **Meeting-Kultur**: Eine Stunde ohne Meeting, ist keine Arbeitsstunde.
@@ -38,10 +38,10 @@ Ein Mitspracherecht bei Neueinstellungen im Kompetenzzentrum Open Data war eine 
 
 Einige dieser Gründe sind durch Strukturen begründbar und kurzfristig nur schwer zu beeinflussen. Andere wiederum betreffen die direkte Zusammenarbeit und sind somit formbarer. Know how to pick your battles!
 
-## My two cents 🪙
+### my two cents 🪙
 Moderne Führungsqualitäten sollten im Vetting-Prozess bei Einstellungen bzw. Beförderungen stärker berücksichtigt werden. Ansonsten liegt die Befürchtung nahe, dass nur noch Ja-Sager*innen in der Verwaltung übrig bleiben. Das kann nicht in unserem Interesse liegen.
 
 ...an die progressiven Führungskräfte in der öffentlichen Verwaltung: Seid (manchmal) bewusst naiv und schützt euer Team!
 
-## Happy new year 🎉
+### happy new year 🎉
 Rutscht gut ins neue Jahr! Meine Mama sagt die nächsten Jahre sollen toll werden laut Hindu-Astro-Zeugs. Ich glaube ausnahmsweise mal daran 🙃
