@@ -17,7 +17,7 @@ params:
     responsiveImages: true
   homeInfoParams:
     Title: hi, <br>i'm <mark>thilak.</mark> 
-    Content: <mark>digital policy — [agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</mark>
+    Content: <mark>digital government policy — [agora digitale transformation {{< ext-svg >}}](https://www.agoradigital.de/)</mark>
   socialIcons:
     - name: "bluesky"
       url: "https://bsky.app/profile/thilak.de"
