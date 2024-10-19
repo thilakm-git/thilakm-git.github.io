@@ -3,6 +3,20 @@
 showtoc: no
 tocopen: no
 ---
+# 2024
+>**SmartCountryConvention: Zukunftsperspektiven: Innovationen für eine moderne Verwaltung**
+> `🗣️ speaker` [`session-info & 📺 video {{< ext-svg >}}`](https://www.smartcountry.berlin/de/programm/programmueberblick/#eventdate--Zukunftsperspektiven:-Innovationen-für-eine-moderne-Verwaltung--0a0a8dc1-7d6b-44f6-9060-f47bf277666e)
+
+>**SmartCountryConvention: Mehr Bürokratie entsteht durch mehr Regulierung – schuld sind nicht die Bürokrat:innen!**
+> `💬 panel-diskussion` [`session-info & 📺 video {{< ext-svg >}}`](https://www.smartcountry.berlin/de/programm/programmueberblick/#eventdate--Mehr-Bürokratie-entsteht-durch-mehr-Regulierung-–-schuld-sind-nicht-die-Bürokrat:innen!--bfc1f848-dc67-42f1-8499-7e8f981b585a)
+
+>**Tagesspiegel Background:  Der Weg zu zentralen IT-Basiskomponenten **
+> `🗞️ zeitungsartikel` [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/der-weg-zu-zentralen-it-basiskomponenten)
+
+>**Tagesspiegel Background:  Agora fordert zentrale Entwicklung von IT-Basiskomponenten**
+> `🗞️ zeitungsartikel` [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/agora-fordert-zentrale-entwicklung-von-it-basiskomponenten)
+
+***
 # 2022
 >**SmartCountryConvention: Gekommen um zu bleiben — Open Data in Deutschland**
 > `💬 panel-diskussion` [`📺 video {{< ext-svg >}}`](https://youtu.be/9GRDcw9V_Dc) [`session-info {{< ext-svg >}}`](https://online.smartcountry.berlin/eventdate/Came-to-stay-Open-Data-in-German--ed_052)
