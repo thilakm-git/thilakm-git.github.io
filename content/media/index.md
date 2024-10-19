@@ -17,7 +17,7 @@ tocopen: no
 > `🗞️ zeitungsartikel` [`info {{< ext-svg >}}`](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/agora-fordert-zentrale-entwicklung-von-it-basiskomponenten)
 
 >**Waterkant Festival: Verwaltung der Zukunft 🔮**
-> `🗣️ speaker` [`session-info {{< ext-svg >}}`]([https://waterkant2022.sched.com/event/12XKR/open-data-new-startup-potentials](https://waterkantfestival2024.sched.com/event/1dJb9/verwaltung-der-zukunft))
+> `🗣️ speaker` [`session-info {{< ext-svg >}}`]([https://waterkant2022.sched.com/event/12XKR/open-data-new-startup-potentials](https://waterkantfestival2024.sched.com/event/1dJb9/verwaltung-der-zukunft)
 
 ***
 # 2022
