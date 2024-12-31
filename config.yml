@@ -21,8 +21,6 @@ params:
   socialIcons:
     - name: "bluesky"
       url: "https://bsky.app/profile/thilak.de"
-    - name: "mastodon"
-      url: "https://ohai.social/@thilak"
     - name: "linkedin"
       url: "https://linkedin.com/in/thilakmahendran"
     - name: "github"
